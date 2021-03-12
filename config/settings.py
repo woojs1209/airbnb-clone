@@ -53,6 +53,7 @@ PROJECT_APPS = [
 # library
 THIRD_PARTY_APPS = [
     "django-countries",
+    "django_seed",
 ]
 
 INSTALLED_APPS = DJANGO_APPS + PROJECT_APPS
